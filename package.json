@@ -1,0 +1,12 @@
+{
+  "name": "rnfalcor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "falcor": "github:dzannotti/falcor",
+    "react-native": "^0.14.2"
+  }
+}
